@@ -1,0 +1,9 @@
+#HTTP Settings
+http_host: "arjun.com"
+http_conf: "arjun.com.conf"
+http_port: "80"
+
+mariadb_root: "mysqlroot@123"
+mariadb_user: "wordpress"
+mariadb_password: "wordpress@123"
+mariadb_database: "wordpress"
